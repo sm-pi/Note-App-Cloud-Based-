@@ -1,14 +1,14 @@
 # Cloud Notes (Intentionally Vulnerable Lab)
 
-A small PHP/MySQL note‑taking web app designed for **authorized, local security training**. The app intentionally contains insecure SQL query patterns so you can practice identifying and fixing SQL injection flaws in a safe environment.
+A small PHP/MySQL note-taking web app designed for **authorized, local security training**. The app intentionally contains insecure SQL query patterns so you can practice identifying and fixing SQL injection flaws in a safe environment.
 
-## Project Summary (copy‑ready)
-Cloud Notes is a lightweight note‑taking web app built with PHP and MySQL. It is intentionally vulnerable to SQL injection for educational and defensive testing purposes, helping learners recognize insecure query patterns and practice remediations like prepared statements and input validation. **Use only in a local, isolated lab.**
+## Project Summary (copy-ready)
+Cloud Notes is a lightweight note-taking web app built with PHP and MySQL. It is intentionally vulnerable to SQL injection for educational and defensive testing purposes, helping learners recognize insecure query patterns and practice remediations like prepared statements and input validation. **Use only in a local, isolated lab.**
 
 ## Why this exists
 - Demonstrate common SQL injection patterns in a simple, readable codebase.
-- Provide a hands‑on lab for learning how to detect and fix insecure queries.
-- Support classroom or self‑study exercises on web security basics.
+- Provide a hands-on lab for learning how to detect and fix insecure queries.
+- Support classroom or self-study exercises on web security basics.
 
 ## Features
 - Login page with session handling
@@ -16,7 +16,7 @@ Cloud Notes is a lightweight note‑taking web app built with PHP and MySQL. It 
 - Seeded database with sample users/notes
 
 ## Tech Stack
-- PHP (server‑side)
+- PHP (server-side)
 - MySQL (database)
 - HTML/CSS (UI)
 
@@ -38,7 +38,7 @@ Cloud Notes is a lightweight note‑taking web app built with PHP and MySQL. It 
 - Do **not** deploy to the public internet.
 - Do **not** use this against real systems or data you don’t own.
 
-## Vulnerability Notes (high‑level)
+## Vulnerability Notes (high-level)
 The codebase intentionally includes insecure SQL string concatenation in the login flow and note creation flow. This is for defensive learning only. For remediation practice, replace vulnerable queries with prepared statements and parameterized inputs.
 
 ---
