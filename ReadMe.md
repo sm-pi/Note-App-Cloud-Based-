@@ -20,6 +20,9 @@ Cloud Notes is a lightweight note-taking web app built with PHP and MySQL. It is
 - MySQL (database)
 - HTML/CSS (UI)
 
+## Repository Contents
+- `setup_cloud_notes.sql` — database schema and seed data (included in the repo root)
+
 ## Setup (local only)
 1. Create the database and tables:
    ```bash
