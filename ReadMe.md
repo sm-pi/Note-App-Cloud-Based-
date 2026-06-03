@@ -29,12 +29,12 @@ Cloud Notes is a lightweight note-taking web app built with PHP and MySQL. It is
    mysql -u your_username -p < setup_cloud_notes.sql
    ```
    (The `setup_cloud_notes.sql` file is included in the repository root. If you move it elsewhere, update the path in the command.)
-2. Update the four arguments passed to `mysqli_connect` in `con.php`: host, username, password, and database name (e.g., `localhost`, `cloud_notes_user`, `YOUR_PASSWORD_HERE`, `cloud_notes`).
+2. Update the four arguments passed to `mysqli_connect` in `con.php`: host, username, password, and database name (e.g., `localhost`, `cloud_notes_user`, `your_password_here`, `cloud_notes` — replace with your own values).
 3. Run a local PHP server:
    ```bash
    php -S localhost:8000 -t .
    ```
-   Keep this **local only**. The `con.php` file contains credentials and should not be exposed to the public internet. If you ever deploy beyond local use, move secrets outside the web root.
+   Keep this **local only**. The `con.php` file contains credentials and should not be exposed to the public internet. If you ever deploy beyond local use, move secrets outside the web root (for example, via environment variables or a config file stored outside the served directory).
 4. Open `http://localhost:8000/index.php` in your browser.
 
 ## Safe & Ethical Use
