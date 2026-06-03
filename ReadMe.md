@@ -2,7 +2,7 @@
 
 A small PHP/MySQL note-taking web app designed for **authorized, local security training**. The app intentionally contains insecure SQL query patterns so you can practice identifying and fixing SQL injection flaws in a safe environment.
 
-## Project Summary (copy-ready)
+## Project Summary
 Cloud Notes is a lightweight note-taking web app built with PHP and MySQL. It is intentionally vulnerable to SQL injection for educational and defensive testing purposes, helping learners recognize insecure query patterns and practice mitigation like prepared statements and input validation. **Use only in a local, isolated lab.**
 
 ## Why this exists
