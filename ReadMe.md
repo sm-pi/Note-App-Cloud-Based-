@@ -31,6 +31,7 @@ Cloud Notes is a lightweight note-taking web app built with PHP and MySQL. It is
    ```bash
    php -S localhost:8000 -t .
    ```
+   Keep this **local only**. The `con.php` file contains credentials and should not be exposed to the public internet. If you ever deploy beyond local use, move secrets outside the web root.
 4. Open `http://localhost:8000/index.php` in your browser.
 
 ## Safe & Ethical Use
