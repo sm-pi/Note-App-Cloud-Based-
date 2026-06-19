@@ -1,85 +1,178 @@
-/* style.css */
+/* style.css - Modern Enterprise UI (Sidebar Layout) */
+
+:root {
+    /* Color Palette */
+    --primary: #4f46e5;       
+    --primary-hover: #4338ca;
+    --secondary: #1e293b;     
+    --sidebar-bg: #0f172a;    /* Darker slate for the sidebar */
+    --background: #f1f5f9;    
+    --surface: #ffffff;
+    --text-main: #0f172a;
+    --text-muted: #64748b;
+    --danger: #ef4444;        
+    --border: #e2e8f0;
+    
+    /* Layout */
+    --radius: 8px;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Global Reset & Typography */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #e9ecef;
-    color: #333;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 30px;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background);
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
 }
 
-h2, h3 {
-    color: #2c3e50;
-    border-bottom: 2px solid #f4f4f4;
-    padding-bottom: 10px;
+/* --- NEW APP LAYOUT --- */
+.app-layout {
+    display: flex;
+    min-height: 100vh;
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #e0e0e0;
-    margin: 20px 0;
+/* --- SIDEBAR STYLING --- */
+.sidebar {
+    width: 260px;
+    background-color: var(--sidebar-bg);
+    color: #f8fafc;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    height: 100vh;
+    left: 0;
+    top: 0;
 }
 
-/* Form Styling */
-label {
-    font-weight: bold;
-    color: #555;
+.sidebar-header {
+    padding: 25px 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 20px;
 }
 
-input[type="text"], input[type="password"], textarea {
-    width: 100%;
-    padding: 12px;
-    margin: 8px 0 20px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box;
-    font-family: inherit;
-}
-
-button {
-    background-color: #3498db;
-    color: white;
-    padding: 12px 20px;
+.sidebar-header h2 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 1.4rem;
     border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    width: 100%;
-    font-size: 16px;
-    font-weight: bold;
-    transition: background-color 0.3s;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
-
-/* Notes List Styling */
-ul {
-    list-style-type: none;
     padding: 0;
 }
 
-li {
-    background: #f8f9fa;
-    border-left: 5px solid #3498db;
-    padding: 15px;
-    margin-bottom: 15px;
-    border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+.sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px;
+    gap: 8px;
+    flex: 1; /* Pushes the footer down */
 }
 
-a {
-    color: #e74c3c;
+.sidebar-nav a {
+    color: #cbd5e1;
     text-decoration: none;
-    font-size: 14px;
-    float: right;
-    margin-top: 8px;
+    padding: 12px 15px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 0.2s ease;
 }
 
-a:hover {
-    text-decoration: underline;
+.sidebar-nav a:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #ffffff;
 }
+
+.sidebar-nav a.active {
+    background-color: var(--primary);
+    color: #ffffff;
+    box-shadow: var(--shadow-sm);
+}
+
+.sidebar-footer {
+    padding: 20px 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.logout-btn {
+    display: block;
+    text-align: center;
+    background-color: rgba(239, 68, 68, 0.1);
+    color: #fca5a5 !important;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.logout-btn:hover {
+    background-color: var(--danger);
+    color: #ffffff !important;
+}
+
+/* --- MAIN CONTENT AREA --- */
+.main-content {
+    flex: 1;
+    margin-left: 260px; /* Offset for the fixed sidebar */
+    padding: 40px;
+    display: flex;
+    justify-content: center; /* Centers the inner wrapper */
+}
+
+.content-wrapper {
+    width: 100%;
+    max-width: 800px; /* Keeps line lengths readable */
+}
+
+/* Login Page Specific (No Sidebar) */
+.login-container {
+    max-width: 450px;
+    margin: 80px auto;
+    padding: 0 20px;
+}
+
+/* --- COMPONENT STYLING --- */
+.card, form, .comments-container, .result, .alert-box {
+    background: var(--surface);
+    padding: 25px 30px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+    margin-bottom: 25px;
+    border: 1px solid var(--border);
+}
+
+h2, h3 { color: var(--secondary); font-weight: 600; margin-top: 0; }
+h2 { font-size: 1.5rem; border-bottom: 2px solid var(--background); padding-bottom: 15px; margin-bottom: 20px; }
+hr { border: 0; height: 1px; background: var(--border); margin: 30px 0; }
+
+label { font-weight: 500; color: var(--secondary); font-size: 0.9rem; }
+
+input[type="text"], input[type="password"], textarea {
+    width: 100%; padding: 12px 15px; margin: 8px 0 20px 0;
+    border: 1px solid var(--border); border-radius: var(--radius);
+    box-sizing: border-box; font-family: inherit; font-size: 1rem;
+    background-color: #f8fafc; transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
+    outline: none; border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.2); background-color: var(--surface);
+}
+
+button, input[type="submit"] {
+    background-color: var(--primary); color: white; padding: 12px 24px;
+    border: none; border-radius: var(--radius); cursor: pointer;
+    font-size: 1rem; font-weight: 600; width: 100%;
+    transition: background-color 0.2s, transform 0.1s; box-shadow: var(--shadow-sm);
+}
+
+button:hover, input[type="submit"]:hover { background-color: var(--primary-hover); }
+button:active, input[type="submit"]:active { transform: translateY(1px); }
+
+div[style*="display: flex"] { background: none; box-shadow: none; border: none; padding: 0; margin-bottom: 25px; }
+
+ul { list-style-type: none; padding: 0; }
+li { background: #f8fafc; border-left: 5px solid var(--primary); padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: var(--shadow-sm); }

