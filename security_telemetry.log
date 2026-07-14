@@ -17,3 +17,553 @@
 {"timestamp":"2026-06-16T11:49:42+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"::1","details":{"username":"victim","contains_script_tags":false}}
 {"timestamp":"2026-06-19T02:41:38+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
 {"timestamp":"2026-06-19T06:57:52+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"alice"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"5838"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') AND 7636=8781 AND ('NdOY'='NdOY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') AND 2232=2232 AND ('mBtc'='mBtc"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY' AND 1273=6591 AND 'NJpY'='NJpY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY' AND 2232=2232 AND 'IfSg'='IfSg"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY) AND 5612=9819 AND (1230=1230"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY) AND 2232=2232 AND (7294=7294"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND 7667=6440"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND 2232=2232"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND 6836=2606-- Piug"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND 2232=2232-- MIkA"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (6079=2361) THEN 0x77555459 ELSE (SELECT 2361 UNION SELECT 4210) END))"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (9183=9183) THEN 0x77555459 ELSE (SELECT 6280 UNION SELECT 7227) END))"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(CONCAT(0x7176787a71,(CASE WHEN (4123=4123) THEN 0x31 ELSE 0x30 END)),0x7171707a71))"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY) AND EXTRACTVALUE(2074,CONCAT(0x5c,0x7176787a71,(SELECT (ELT(2074=2074,1))),0x7171707a71)) AND (6169=6169"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND EXTRACTVALUE(2074,CONCAT(0x5c,0x7176787a71,(SELECT (ELT(2074=2074,1))),0x7171707a71))"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY AND EXTRACTVALUE(2074,CONCAT(0x5c,0x7176787a71,(SELECT (ELT(2074=2074,1))),0x7171707a71))-- qZEv"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:27+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY"}}
+{"timestamp":"2026-06-23T03:37:37+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') AND (SELECT 9718 FROM (SELECT(SLEEP(5)))pzgX) AND ('kOMe'='kOMe"}}
+{"timestamp":"2026-06-23T03:37:37+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') AND (SELECT 9718 FROM (SELECT(SLEEP(0)))pzgX) AND ('kOMe'='kOMe"}}
+{"timestamp":"2026-06-23T03:37:47+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') AND (SELECT 9718 FROM (SELECT(SLEEP(5)))pzgX) AND ('kOMe'='kOMe"}}
+{"timestamp":"2026-06-23T03:37:47+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') ORDER BY 1-- -"}}
+{"timestamp":"2026-06-23T03:37:47+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') ORDER BY 4-- -"}}
+{"timestamp":"2026-06-23T03:37:47+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wUTY') ORDER BY 5-- -"}}
+{"timestamp":"2026-06-23T03:37:47+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-06-23T03:37:57+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-06-23T03:38:08+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-06-23T03:38:18+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qvxzqaKDZAzjqnYQRdfXgSGjawlrFRazdAKYhgMgGqFKVqqpzq"}}
+{"timestamp":"2026-06-23T03:38:23+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qvxzqaKDZAzjqnYQRdfXgSGjawlrFRazdAKYhgMgGqFKVqqpzq"}}
+{"timestamp":"2026-06-23T03:40:03+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"VpiM"}}
+{"timestamp":"2026-06-23T03:41:12+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aDkx"}}
+{"timestamp":"2026-06-23T03:41:12+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qvxzq[\"idnrmurmint(11)\",\"namenrmurmvarchar(100)\",\"emailnrmurmvarchar(150)\",\"passwordnrmurmvarchar(100)\",\"role_idnrmurmint(11)\"]qqpzq"}}
+{"timestamp":"2026-06-23T03:41:48+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wrgW"}}
+{"timestamp":"2026-06-23T03:41:48+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qvxzq[\"adminnrmurmadmin@cloudnotes.localnrmurm3\",\"saminnrmurmsamin@cloudnotes.localnrmurm1\",\"sazzadnrmurmsazzad@cloudnotes.localnrmurm1\",\"victimnrmurmvictim@cloudnotes.localnrmurm1\",\"attackernrmurmattacker@cloudnotes.localnrmurm1\",\"alicenrmurmalice@cloudnotes.localnrmurm2\",\"bobnrmurmbob@cloudnotes.localnrmurm1\",\"charlienrmurmcharlie@cloudnotes.localnrmurm1\",\"davenrmurmdave@cloudnotes.localnrmurm2\",\"evenrmurmeve@cloudnotes.localnrmurm1\",\"mallorynrmurmmallory@cloudnotes.localnrmurm1\"]qqpzq"}}
+{"timestamp":"2026-06-23T03:42:18+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T03:44:03+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T03:44:45+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T03:49:45+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T03:49:57+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T03:50:24+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:13:17+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@gmai.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:14:07+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"victim"}}
+{"timestamp":"2026-06-23T04:14:47+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"victim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:14:53+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"victim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:15:13+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T04:15:26+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:44:44+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T04:45:10+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T04:47:13+00:00","event_type":"SEARCH_EXECUTED","ip":"127.0.0.1","details":{"username":"attacker","contains_script":true}}
+{"timestamp":"2026-06-23T04:47:34+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T05:09:50+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-06-23T05:09:59+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"victim"}}
+{"timestamp":"2026-06-23T05:13:35+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"victim","contains_script_tags":false}}
+{"timestamp":"2026-06-23T05:13:55+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T05:14:07+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"attacker","new_email":"attacker@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-06-23T05:17:11+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"attacker","contains_script_tags":false}}
+{"timestamp":"2026-06-23T05:17:23+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"attacker","contains_script_tags":false}}
+{"timestamp":"2026-06-23T06:52:43+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T06:52:52+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"attacker"}}
+{"timestamp":"2026-06-23T07:08:28+00:00","event_type":"EMAIL_CHANGED","ip":"172.16.39.128","details":{"username":"attacker","new_email":"attacker@email.com","ip_origin":"172.16.39.128"}}
+{"timestamp":"2026-06-23T07:08:50+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"victim"}}
+{"timestamp":"2026-06-23T07:09:12+00:00","event_type":"EMAIL_CHANGED","ip":"172.16.39.128","details":{"username":"victim","new_email":"attacker@email.com","ip_origin":"172.16.39.128"}}
+{"timestamp":"2026-07-06T02:40:07+00:00","event_type":"LOGIN_FAILED","ip":"172.16.39.128","details":{"attempted_id":"\"1OR1=1--"}}
+{"timestamp":"2026-07-06T02:40:31+00:00","event_type":"LOGIN_FAILED","ip":"172.16.39.128","details":{"attempted_id":"\"1 or 1=1--"}}
+{"timestamp":"2026-07-06T04:10:28+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:05:23+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:09:21+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"rBig"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"wDwm"}}
+{"timestamp":"2026-07-06T14:11:56+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"zPVu"}}
+{"timestamp":"2026-07-06T14:12:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"rTtX"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:12:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"DZLb"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:13:20+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"HAoY"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:14:17+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"MOdT"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:17:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"kRNa"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"3365"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' AND 5475=3975 AND 'lqPW'='lqPW"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' AND 7013=7013 AND 'raQy'='raQy"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AND 9781=8871 AND (6968=6968"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AND 7013=7013 AND (9552=9552"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 5045=5613"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 7013=7013"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 9698=2845-- ascY"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 7013=7013-- jBWe"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (7233=2390) THEN 0x61504e4a ELSE (SELECT 2390 UNION SELECT 8846) END))"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (7744=7744) THEN 0x61504e4a ELSE (SELECT 5572 UNION SELECT 9351) END))"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(CONCAT(0x716b6b6a71,(CASE WHEN (3579=3579) THEN 0x31 ELSE 0x30 END)),0x717a787a71))"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' AND 9314=6998#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\" AND 6809=2591#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\" AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ%' AND 7434=6341#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ%' AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\") AND 9295=1751#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\") AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\")) AND 1072=2969#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\")) AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\"))) AND 8119=3316#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\"))) AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\")) AS SPkw WHERE 2063=2063 AND 9041=4050#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\")) AS xpwC WHERE 9402=9402 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\") AS OlmT WHERE 3295=3295 AND 8732=4510#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ\") AS zXFx WHERE 1694=1694 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AND 9890=5549#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ)) AND 3255=7841#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ)) AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ))) AND 9366=2197#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ))) AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 1798=5724#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ)) AS zjMq WHERE 3743=3743 AND 9805=2557#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ)) AS QOus WHERE 4940=4940 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AS ftwK WHERE 6783=6783 AND 6692=3482#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ) AS bXqT WHERE 5348=5348 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ` WHERE 4764=4764 AND 3245=2797#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ` WHERE 9543=9543 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ`) WHERE 7790=7790 AND 8191=7569#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ`) WHERE 2485=2485 AND 7409=7409#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7070"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9289' OR 9818=2877#"}}
+{"timestamp":"2026-07-06T14:21:50+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:21:55+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3462' OR 8993=9554#"}}
+{"timestamp":"2026-07-06T14:21:55+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9103\" OR 1678=3446#"}}
+{"timestamp":"2026-07-06T14:21:55+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5068\" OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:21:55+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8205%' OR 6689=6368#"}}
+{"timestamp":"2026-07-06T14:21:55+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8621%' OR 2274=6229#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8817\") OR 5636=7523#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3128\") OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1476\")) OR 9140=9138#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5190\")) OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8314\"))) OR 1935=9816#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5519\"))) OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5988\")) AS ngsP WHERE 1143=1143 OR 3780=2809#"}}
+{"timestamp":"2026-07-06T14:22:00+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1308\")) AS aozP WHERE 4667=4667 OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4901\") AS cSim WHERE 4267=4267 OR 5733=1041#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2517\") AS gMtd WHERE 1438=1438 OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1453) OR 6553=3903#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2042) OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4226)) OR 3100=7861#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4432)) OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5612))) OR 8956=9361#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1487))) OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7114 OR 7986=9488#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4946 OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3535)) AS QaJx WHERE 3022=3022 OR 6831=3202#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8387)) AS DEQw WHERE 6325=6325 OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3602) AS PNeT WHERE 2783=2783 OR 3922=9616#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2599) AS lDfd WHERE 2200=2200 OR 9400=9400#"}}
+{"timestamp":"2026-07-06T14:22:01+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:06+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' OR NOT 1175=1175#"}}
+{"timestamp":"2026-07-06T14:22:06+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:11+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(0x716b6b6a71,(ELT(3799=3799,1)),0x717a787a71))"}}
+{"timestamp":"2026-07-06T14:22:16+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' AND (SELECT 7125 FROM (SELECT(SLEEP(5)))kzuh)-- GfQx"}}
+{"timestamp":"2026-07-06T14:22:21+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:26+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:36+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-06T14:22:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' ORDER BY 1#"}}
+{"timestamp":"2026-07-06T14:22:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' ORDER BY 4#"}}
+{"timestamp":"2026-07-06T14:22:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"aPNJ' ORDER BY 5#"}}
+{"timestamp":"2026-07-06T14:22:41+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-06T14:22:51+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-06T14:23:01+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qkkjqpXcoZsaREREzLaRwXgtuKDUaoLPhrKBZepIyjMIxqzxzq"}}
+{"timestamp":"2026-07-06T14:23:06+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qkkjqpXcoZsaREREzLaRwXgtuKDUaoLPhrKBZepIyjMIxqzxzq"}}
+{"timestamp":"2026-07-06T14:23:11+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qkkjq1qzxzq"}}
+{"timestamp":"2026-07-06T14:23:16+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qkkjq[\"idsjctvaint(11)\",\"namesjctvavarchar(100)\",\"emailsjctvavarchar(150)\",\"passwordsjctvavarchar(100)\",\"role_idsjctvaint(11)\"]qzxzq"}}
+{"timestamp":"2026-07-06T14:23:21+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qkkjq[\"adminsjctvaadmin@cloudnotes.localsjctva1sjctvasupersecretsjctva3\",\"saminsjctvasamin@cloudnotes.localsjctva2sjctva@321saminsjctva1\",\"sazzadsjctvasazzad@cloudnotes.localsjctva3sjctva@231sazzadsjctva1\",\"victimsjctvaattacker@email.comsjctva4sjctva1234sjctva1\",\"attackersjctvaattacker@email.comsjctva5sjctva1234sjctva1\",\"alicesjctvaalice@cloudnotes.localsjctva6sjctvaalice_passsjctva2\",\"bobsjctvabob@cloudnotes.localsjctva7sjctvabob_passsjctva1\",\"charliesjctvacharlie@cloudnotes.localsjctva8sjctvacharlie_passsjctva1\",\"davesjctvadave@cloudnotes.localsjctva9sjctvadave_passsjctva2\",\"evesjctvaeve@cloudnotes.localsjctva10sjctvaeve_passsjctva1\",\"mallorysjctvamallory@cloudnotes.localsjctva11sjctvamal_passsjctva1\"]qzxzq"}}
+{"timestamp":"2026-07-06T14:38:47+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T00:04:19+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T00:04:59+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T05:38:26+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"victim"}}
+{"timestamp":"2026-07-07T05:39:08+00:00","event_type":"SEARCH_EXECUTED","ip":"127.0.0.1","details":{"username":"victim","contains_script":true}}
+{"timestamp":"2026-07-07T06:00:40+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"victim","contains_script_tags":false}}
+{"timestamp":"2026-07-07T06:01:50+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"victim","contains_script_tags":false}}
+{"timestamp":"2026-07-07T06:03:14+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"victim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:03:38+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"victim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:07:39+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"Imvictim@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:08:21+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"Imvictim@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:09:58+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"Imvictim@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:11:18+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"iamvictim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:18:01+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"victim"}}
+{"timestamp":"2026-07-07T06:18:31+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"Imvictim@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:20:01+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"iamvictim@gmail.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:21:16+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"victim","new_email":"Imvictim@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T06:24:51+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"victim"}}
+{"timestamp":"2026-07-07T06:27:17+00:00","event_type":"EMAIL_CHANGED","ip":"172.16.39.128","details":{"username":"victim","new_email":"victim@email.com","ip_origin":"172.16.39.128"}}
+{"timestamp":"2026-07-07T06:28:48+00:00","event_type":"EMAIL_CHANGED","ip":"172.16.39.128","details":{"username":"victim","new_email":"hacker@email.com","ip_origin":"172.16.39.128"}}
+{"timestamp":"2026-07-07T09:07:46+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:08:12+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:22+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi"}}
+{"timestamp":"2026-07-07T09:10:22+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi"}}
+{"timestamp":"2026-07-07T09:10:22+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi"}}
+{"timestamp":"2026-07-07T09:10:22+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"8106"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' AND 4665=9500 AND 'tUDh'='tUDh"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' AND 7358=7358 AND 'FYVQ'='FYVQ"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AND 9551=6139 AND (3731=3731"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AND 7358=7358 AND (4567=4567"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 1452=9528"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 7358=7358"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 7798=4169-- pDJZ"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 7358=7358-- JLbq"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (9453=3818) THEN 0x744f4a69 ELSE (SELECT 3818 UNION SELECT 4122) END))"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (3578=3578) THEN 0x744f4a69 ELSE (SELECT 5910 UNION SELECT 9574) END))"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(CONCAT(0x7170786b71,(CASE WHEN (7844=7844) THEN 0x31 ELSE 0x30 END)),0x71626b6b71))"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' AND 9258=7192#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\" AND 6041=5698#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\" AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi%' AND 9132=3139#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi%' AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\") AND 9807=4364#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\") AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\")) AND 6550=6882#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\")) AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\"))) AND 5704=4330#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\"))) AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\")) AS uJLo WHERE 8528=8528 AND 3652=8180#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\")) AS BLKo WHERE 5266=5266 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\") AS dwvM WHERE 5547=5547 AND 1771=8336#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi\") AS TFqt WHERE 4587=4587 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AND 3475=6275#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi)) AND 5294=3606#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi)) AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi))) AND 9332=4250#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi))) AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 2095=5511#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi)) AS yPfk WHERE 1635=1635 AND 8693=7867#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi)) AS OdyS WHERE 8901=8901 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AS yRjh WHERE 2976=2976 AND 7137=4261#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi) AS MujW WHERE 7490=7490 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi` WHERE 3433=3433 AND 8920=3356#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi` WHERE 9444=9444 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi`) WHERE 7873=7873 AND 1972=9701#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi`) WHERE 7225=7225 AND 3102=3102#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9045"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9523' OR 9479=5503#"}}
+{"timestamp":"2026-07-07T09:10:23+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:28+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9522' OR 7175=3151#"}}
+{"timestamp":"2026-07-07T09:10:28+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3113\" OR 6405=3908#"}}
+{"timestamp":"2026-07-07T09:10:28+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6970\" OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:28+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2879%' OR 2604=2356#"}}
+{"timestamp":"2026-07-07T09:10:28+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8554%' OR 2597=2623#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5997\") OR 6909=9913#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6911\") OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1253\")) OR 5869=2701#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7391\")) OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1988\"))) OR 9687=1294#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2831\"))) OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1121\")) AS tDLw WHERE 6892=6892 OR 6019=4186#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2262\")) AS jopC WHERE 9773=9773 OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9700\") AS wPqK WHERE 2873=2873 OR 6837=8104#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8064\") AS Tvko WHERE 3743=3743 OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5547) OR 3471=5734#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2255) OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8819)) OR 5627=1144#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6296)) OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3934))) OR 1141=3907#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7157))) OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9280 OR 4818=3923#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3810 OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2850)) AS zKda WHERE 3684=3684 OR 4621=9456#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5902)) AS GJce WHERE 3568=3568 OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6996) AS bkJv WHERE 4897=4897 OR 4317=6806#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1149) AS NFFb WHERE 4757=4757 OR 4066=4066#"}}
+{"timestamp":"2026-07-07T09:10:33+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:38+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' OR NOT 8501=8501#"}}
+{"timestamp":"2026-07-07T09:10:38+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:43+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(0x7170786b71,(ELT(6566=6566,1)),0x71626b6b71))"}}
+{"timestamp":"2026-07-07T09:10:48+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' AND (SELECT 2791 FROM (SELECT(SLEEP(5)))MPHz)-- xiob"}}
+{"timestamp":"2026-07-07T09:10:53+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:10:58+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:11:08+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:11:13+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' ORDER BY 1#"}}
+{"timestamp":"2026-07-07T09:11:13+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' ORDER BY 4#"}}
+{"timestamp":"2026-07-07T09:11:13+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"tOJi' ORDER BY 5#"}}
+{"timestamp":"2026-07-07T09:11:13+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-07T09:11:23+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-07T09:11:33+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-07T09:11:43+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qpxkqViFMsbwpErfXWzOwUQmCKTnBamwpdEKrxEzOiAGKqbkkq"}}
+{"timestamp":"2026-07-07T09:11:48+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qpxkqViFMsbwpErfXWzOwUQmCKTnBamwpdEKrxEzOiAGKqbkkq"}}
+{"timestamp":"2026-07-07T09:11:53+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qpxkq1qbkkq"}}
+{"timestamp":"2026-07-07T09:11:58+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qpxkq[\"idmozgueint(11)\",\"namemozguevarchar(100)\",\"emailmozguevarchar(150)\",\"passwordmozguevarchar(100)\",\"role_idmozgueint(11)\"]qbkkq"}}
+{"timestamp":"2026-07-07T09:12:03+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qpxkq[\"adminmozgueadmin@cloudnotes.localmozgue1mozguesupersecretmozgue3\",\"saminmozguesamin@cloudnotes.localmozgue2mozgue@321saminmozgue1\",\"sazzadmozguesazzad@cloudnotes.localmozgue3mozgue@231sazzadmozgue1\",\"victimmozguehacker@email.commozgue4mozgue1234mozgue1\",\"attackermozgueattacker@email.commozgue5mozgue1234mozgue1\",\"alicemozguealice@cloudnotes.localmozgue6mozguealice_passmozgue2\",\"bobmozguebob@cloudnotes.localmozgue7mozguebob_passmozgue1\",\"charliemozguecharlie@cloudnotes.localmozgue8mozguecharlie_passmozgue1\",\"davemozguedave@cloudnotes.localmozgue9mozguedave_passmozgue2\",\"evemozgueeve@cloudnotes.localmozgue10mozgueeve_passmozgue1\",\"mallorymozguemallory@cloudnotes.localmozgue11mozguemal_passmozgue1\"]qbkkq"}}
+{"timestamp":"2026-07-07T09:13:40+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg"}}
+{"timestamp":"2026-07-07T09:13:40+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"7266"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' AND 9182=8312 AND 'SwJC'='SwJC"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' AND 3083=3083 AND 'YoBA'='YoBA"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AND 1073=5538 AND (5014=5014"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AND 3083=3083 AND (8943=8943"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 2813=5005"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 3083=3083"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 2440=3934-- sFOK"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 3083=3083-- eOmS"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (6353=6670) THEN 0x70715167 ELSE (SELECT 6670 UNION SELECT 5359) END))"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT (CASE WHEN (3962=3962) THEN 0x70715167 ELSE (SELECT 8033 UNION SELECT 7364) END))"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(CONCAT(0x7178707a71,(CASE WHEN (9094=9094) THEN 0x31 ELSE 0x30 END)),0x7170787071))"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' AND 5077=4968#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\" AND 9299=4730#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\" AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg%' AND 9086=2619#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg%' AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\") AND 3429=7111#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\") AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\")) AND 7759=9480#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\")) AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\"))) AND 1317=8519#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\"))) AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\")) AS XCtz WHERE 5100=5100 AND 8215=1329#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\")) AS hJjj WHERE 2064=2064 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\") AS YHlR WHERE 2164=2164 AND 9058=3816#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg\") AS LJsE WHERE 5490=5490 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AND 6398=4161#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg)) AND 6477=6426#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg)) AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg))) AND 5997=7307#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg))) AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 3554=9108#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg)) AS crpK WHERE 8100=8100 AND 3942=1548#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg)) AS TofY WHERE 3306=3306 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AS zJcQ WHERE 4311=4311 AND 8468=1631#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg) AS Eagd WHERE 7892=7892 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg` WHERE 3442=3442 AND 8974=1218#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg` WHERE 7295=7295 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg`) WHERE 8062=8062 AND 7342=4857#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg`) WHERE 7873=7873 AND 8047=8047#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6041"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-9809' OR 7400=8731#"}}
+{"timestamp":"2026-07-07T09:13:41+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:13:46+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-2802' OR 3071=6623#"}}
+{"timestamp":"2026-07-07T09:13:46+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7207\" OR 2282=1541#"}}
+{"timestamp":"2026-07-07T09:13:46+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7650\" OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:46+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1737%' OR 3659=3768#"}}
+{"timestamp":"2026-07-07T09:13:46+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1929%' OR 4733=2634#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1781\") OR 4089=2981#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1797\") OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1193\")) OR 7748=2477#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6477\")) OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-8770\"))) OR 6650=5039#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7610\"))) OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4469\")) AS QUbg WHERE 3819=3819 OR 1540=8971#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4372\")) AS Cvpz WHERE 9965=9965 OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-4633\") AS rIso WHERE 8493=8493 OR 9643=6166#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1143\") AS UqmF WHERE 6034=6034 OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5027) OR 7256=9426#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7452) OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1509)) OR 9192=3774#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-3829)) OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6710))) OR 9019=2984#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-1804))) OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6345 OR 1998=6948#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-5829 OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6889)) AS zLrH WHERE 7983=7983 OR 4768=6833#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7974)) AS LIip WHERE 6930=6930 OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-7715) AS UMEC WHERE 2385=2385 OR 4245=5533#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"-6142) AS uWgJ WHERE 5847=5847 OR 6638=6638#"}}
+{"timestamp":"2026-07-07T09:13:51+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:13:56+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' OR NOT 6576=6576#"}}
+{"timestamp":"2026-07-07T09:13:56+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:14:01+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"(SELECT CONCAT(0x7178707a71,(ELT(7989=7989,1)),0x7170787071))"}}
+{"timestamp":"2026-07-07T09:14:06+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' AND (SELECT 2434 FROM (SELECT(SLEEP(5)))AfCR)-- vxCZ"}}
+{"timestamp":"2026-07-07T09:14:11+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:14:16+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:14:26+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-07-07T09:14:31+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' ORDER BY 1#"}}
+{"timestamp":"2026-07-07T09:14:31+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' ORDER BY 4#"}}
+{"timestamp":"2026-07-07T09:14:31+00:00","event_type":"LOGIN_FAILED","ip":"::1","details":{"attempted_id":"pqQg' ORDER BY 5#"}}
+{"timestamp":"2026-07-07T09:14:31+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-07T09:14:41+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":null}}
+{"timestamp":"2026-07-07T09:14:52+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qxpzqMaCyathTCIIiqeBppzgRGqKBLCpDeyDmAroXXuXaqpxpq"}}
+{"timestamp":"2026-07-07T09:14:57+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qxpzqMaCyathTCIIiqeBppzgRGqKBLCpDeyDmAroXXuXaqpxpq"}}
+{"timestamp":"2026-07-07T09:15:02+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qxpzq1qpxpq"}}
+{"timestamp":"2026-07-07T09:15:07+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qxpzq[\"idhjrxwoint(11)\",\"namehjrxwovarchar(100)\",\"emailhjrxwovarchar(150)\",\"passwordhjrxwovarchar(100)\",\"role_idhjrxwoint(11)\"]qpxpq"}}
+{"timestamp":"2026-07-07T09:15:12+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"qxpzq[\"adminhjrxwoadmin@cloudnotes.localhjrxwo1hjrxwosupersecrethjrxwo3\",\"saminhjrxwosamin@cloudnotes.localhjrxwo2hjrxwo@321saminhjrxwo1\",\"sazzadhjrxwosazzad@cloudnotes.localhjrxwo3hjrxwo@231sazzadhjrxwo1\",\"victimhjrxwohacker@email.comhjrxwo4hjrxwo1234hjrxwo1\",\"attackerhjrxwoattacker@email.comhjrxwo5hjrxwo1234hjrxwo1\",\"alicehjrxwoalice@cloudnotes.localhjrxwo6hjrxwoalice_passhjrxwo2\",\"bobhjrxwobob@cloudnotes.localhjrxwo7hjrxwobob_passhjrxwo1\",\"charliehjrxwocharlie@cloudnotes.localhjrxwo8hjrxwocharlie_passhjrxwo1\",\"davehjrxwodave@cloudnotes.localhjrxwo9hjrxwodave_passhjrxwo2\",\"evehjrxwoeve@cloudnotes.localhjrxwo10hjrxwoeve_passhjrxwo1\",\"malloryhjrxwomallory@cloudnotes.localhjrxwo11hjrxwomal_passhjrxwo1\"]qpxpq"}}
+{"timestamp":"2026-07-07T09:16:28+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T10:43:24+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"victim"}}
+{"timestamp":"2026-07-07T10:45:44+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"172.16.39.128","details":{"username":"victim","contains_script_tags":false}}
+{"timestamp":"2026-07-07T10:48:50+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T10:57:49+00:00","event_type":"LOGIN_FAILED","ip":"127.0.0.1","details":{"attempted_id":"attacke"}}
+{"timestamp":"2026-07-07T10:57:55+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T10:58:00+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T10:58:24+00:00","event_type":"LOGIN_SUCCESS","ip":"::1","details":{"username":"attacker"}}
+{"timestamp":"2026-07-07T10:59:05+00:00","event_type":"SESSION_HIJACK_DETECTED","ip":"::1","details":{"username":"victim","original_ip":"172.16.39.128","hijacker_ip":"::1"}}
+{"timestamp":"2026-07-07T11:01:10+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"eve"}}
+{"timestamp":"2026-07-07T11:01:45+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"eve","new_email":"eve@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T11:01:56+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"eve","new_email":"eve@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-07T11:03:14+00:00","event_type":"EMAIL_CHANGED","ip":"127.0.0.1","details":{"username":"eve","new_email":"eve@email.com","ip_origin":"127.0.0.1"}}
+{"timestamp":"2026-07-14T01:31:38+00:00","event_type":"LOGIN_SUCCESS","ip":"172.16.39.128","details":{"username":"attacker"}}
+{"timestamp":"2026-07-14T01:32:38+00:00","event_type":"EMAIL_CHANGED","ip":"172.16.39.128","details":{"username":"attacker","new_email":"attacker@myemail.com","ip_origin":"172.16.39.128"}}
+{"timestamp":"2026-07-14T09:07:27+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-14T09:08:25+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-14T09:09:49+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-14T09:10:54+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"admin","contains_script_tags":false}}
+{"timestamp":"2026-07-14T09:12:06+00:00","event_type":"LOGIN_SUCCESS","ip":"127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-07-14T09:12:13+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"admin","contains_script_tags":false}}
+{"timestamp":"2026-07-14T09:13:12+00:00","event_type":"FEEDBACK_SUBMITTED","ip":"127.0.0.1","details":{"username":"admin","contains_script_tags":false}}

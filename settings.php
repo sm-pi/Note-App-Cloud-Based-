@@ -12,9 +12,9 @@ if (!isset($_SESSION['username'])) {
 $user_id = $_SESSION['user_id'];
 $message = '';
 
-// Handle Email Update (🚨 VULNERABLE TO CSRF - No Token Validation)
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['new_email'])) {
-    $new_email = $_POST['new_email'];
+// 🚨 HYPER-VULNERABLE TO CSRF: Accepts POST or GET without any tokens
+if (isset($_REQUEST['new_email'])) {
+    $new_email = $_REQUEST['new_email'];
     
     // Also vulnerable to SQLi, compounding the threat
     $update_query = "UPDATE users SET email = '$new_email' WHERE id = $user_id";

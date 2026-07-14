@@ -1,6 +1,20 @@
 <?php
 // index.php
+
+// Force PHP to display errors so you can debug any 500 Internal Server Errors
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+// 🚨 STRIP SAMESITE DEFENSES (Makes CSRF Possible in Modern Browsers)
+session_set_cookie_params([
+    'samesite' => 'None',
+    'secure' => false // Keep false for local HTTP testing
+]);
+
 session_start();
+
+// Use your existing connection file
 include 'con.php';
 require_once 'telemetry.php';
 
@@ -10,8 +24,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $login_id = $_POST['login_id']; // Can be username OR email
     $password = $_POST['password'];
 
-    // 🚨 VULNERABLE SQL QUERY (Auth Bypass - Now supports Email or Username)
-    $query = "SELECT * FROM users WHERE (name = '$login_id' OR email = '$login_id') AND password = '$password'";
+    // 🚨 VULNERABLE SQL QUERY (Auth Bypass - Restored Email Login, Parentheses Removed)
+    // We duplicate the password check on both sides of the OR statement.
+    // This makes standard payloads like admin' --  work flawlessly.
+    $query = "SELECT * FROM users WHERE name = '$login_id' AND password = '$password' OR email = '$login_id' AND password = '$password'";
     $result = mysqli_query($conn, $query);
 
     if (!$result) {
