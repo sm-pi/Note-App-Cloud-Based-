@@ -155,6 +155,3 @@ application on a live/public network is strongly discouraged.
 
 ---
 
-## 📄 License
-
-For educational use. Add a license of your choice (e.g. MIT) if distributing.
