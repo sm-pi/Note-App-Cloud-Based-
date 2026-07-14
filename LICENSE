@@ -1,1 +1,4 @@
-
+# create LICENSE file, paste chosen license text, then:
+git add LICENSE
+git commit -m "Add license"
+git push
